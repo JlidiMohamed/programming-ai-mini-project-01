@@ -1,0 +1,17 @@
+{
+  "raw_rows": 84,
+  "exact_duplicates_removed": 3,
+  "rejected_rows": 4,
+  "retained_rows": 77,
+  "channel_unknown": 2,
+  "priority_unknown": 2,
+  "handling_imputed": 3,
+  "handling_missing_source": 1,
+  "handling_invalid_source": 2,
+  "satisfaction_unavailable": 3,
+  "satisfaction_missing_source": 1,
+  "satisfaction_invalid_source": 2,
+  "handling_fill_median": 59.0,
+  "handling_mean": 59.589610389610385,
+  "handling_std_population": 30.595274163617248
+}
